@@ -1,0 +1,47 @@
+[
+    {
+      "question": "What is the result of `typeof 'JavaScript'`?",
+      "options": [
+        "'string'",
+        "'object'",
+        "'undefined'",
+        "'number'"
+      ],
+      "correctAnswer": [
+        "'string'"
+      ]
+    },{
+        "question": "What is the result of `typeof 'JavaScript'`?",
+        "options": [
+          "'string'",
+          "'object'",
+          "'undefined'",
+          "'number'"
+        ],
+        "correctAnswer": [
+          "'string'"
+        ]
+      },{
+        "question": "What is the result of `typeof 'JavaScript'`?",
+        "options": [
+          "'string'",
+          "'object'",
+          "'undefined'",
+          "'number'"
+        ],
+        "correctAnswer": [
+          "'string'"
+        ]
+      },{
+        "question": "What is the result of `typeof 'JavaScript'`?",
+        "options": [
+          "'string'",
+          "'object'",
+          "'undefined'",
+          "'number'"
+        ],
+        "correctAnswer": [
+          "'string'"
+        ]
+      }
+]

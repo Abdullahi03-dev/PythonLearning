@@ -1,0 +1,12 @@
+
+{% extends 'layout.html' %}
+{% block content %}
+<h2>Add New Contact</h2>
+<form method="POST">
+    <label>Name:</label>
+    <input type="text" name="name" required>
+    <label>Phone:</label>
+    <input type="text" name="phone" required>
+    <button type="submit">Add Contact</button>
+</form>
+{% endblock %}
